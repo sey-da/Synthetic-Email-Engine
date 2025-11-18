@@ -3,6 +3,11 @@ You can try the live version of the **SSY Synthetic Email Engine** here:
 
 👉 https://sey-da.sengulseyday.workers.dev/
 
+<img width="2270" height="1254" alt="image" src="https://github.com/user-attachments/assets/6fe54791-5a24-4d1c-9067-c72f652f3d7d" />
+<img width="2218" height="1656" alt="image" src="https://github.com/user-attachments/assets/6e8b5fc2-3cde-4f7a-a41b-fb8b0b9fdf47" />
+
+
+
 ---
 
 ## 🌸 About the SSY Synthetic Email Engine
