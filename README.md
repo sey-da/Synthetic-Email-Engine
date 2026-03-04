@@ -5,7 +5,7 @@ You can try the live version of the **SSY Synthetic Email Engine** here:
 
 ---
 
-## 🌸 About the SSY Synthetic Email Engine
+##  Synthetic Email Engine
 The SSY Synthetic Email Engine is an experimental prototype imagining the future of email intelligence.  
 It generates fully synthetic, deterministic insights based solely on the text you provide, offering a calm and human-feeling reflection of your drafted email.
 
